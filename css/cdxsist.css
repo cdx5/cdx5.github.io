@@ -102,12 +102,6 @@ img {
   object-position: left;
 }
 
-.post.text img, .post.text .content img+em {
-  width: 528px;
-  max-width: calc(100vw - 132px);
-  padding-left: 33px;
-}
-
 /* structure */
 header.site-header {
   width: 100%;
@@ -188,12 +182,12 @@ footer {
   margin-bottom: 15px;
 }
 
-.post .content p:not(:last-child) img + em:last-child {
+.post .content p:not(:last-child) img+em:last-child {
   margin-bottom: 0;
   padding-bottom: 1px;
 }
 
-.post .content p:not(:has(img))+p:has(img) img, .post .content ul + p:has(img) img {
+.post .content p:not(:has(img))+p:has(img) img, .post .content ul+p:has(img) img {
   margin-top: 15px;
 }
 
@@ -202,7 +196,7 @@ footer {
 }
 
 /* image caption */
-.post .content img + em {
+.post .content img+em {
   display: block;
   font-style: normal;
   font-size: 12px;
@@ -212,15 +206,22 @@ footer {
 }
 
 /* text post */
-.post.text .content p+p img {
+.post .content p:has(:not(img))~p:has(>img) img,
+.post .content p:has(:not(img))~p:has(>img) img+em {
+  width: 528px;
+  max-width: calc(100vw - 132px);
+  padding-left: 33px;
+}
+
+.post .content p:not(:has(img))+p:has(img) img {
   margin-top: 37px;
 }
 
-.post.text .content p:has(img) + p {
+.post .content p+p:has(img)+p:not(:has(img)) {
     margin-top: 37px;
 }
 
-p:has(em)+p {
+.post .content p:has(em)+p:not(:has(img)) {
   margin-top: 32px;
 }
 
@@ -241,7 +242,7 @@ p:has(em)+p {
     max-height: calc(100vw - 44px);
   }
 
-  .post.text img {
+  .post .content p:has(:not(img))~p:has(>img) img {
     max-height: calc(100vw - 132px);
   }
 }
