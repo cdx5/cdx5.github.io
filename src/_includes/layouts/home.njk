@@ -1,0 +1,28 @@
+---
+layout: layouts/base.njk
+pagination:
+  data: collections.post
+  reverse: true
+  size: 100
+  alias: posts
+note: "Remember you paginated the post collection but removed the navigation snippet include from the footer, so after 100 posts you need to make a decision about archiving."
+---
+<!-- home.layout -->
+<ul class="posts-wrap">
+  {% for post in posts %}
+    <li class="post divider">
+      <div class="date small">
+        <a href="{{ post.url }}">{{ post.date | postDate }}</a>
+      </div>
+      <div class="content">
+        {% if post.data.title | length %}
+          <h1 class="title">{{ post.data.title }}</h1>
+        {% endif %}
+        {{ post.content | safe }}
+      </div>
+    </li>
+  {% endfor %}
+</ul>
+<footer class="small">
+    <p>/╲/\( •̀ ω •́ )/\╱\ end</p>
+</footer>

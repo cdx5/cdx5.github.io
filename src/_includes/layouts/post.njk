@@ -1,0 +1,21 @@
+---
+layout: layouts/base.njk
+---
+<!-- post.layout -->
+<ul class="post-wrap">
+    <li class="post divider">
+      <div class="date small">
+        <a href="{{ url }}">{{ page.date | postDate }}</a>
+      </div>
+      <div class="content">
+        {% if title | length %}
+          <h1 class="title">{{ title }}</h1>
+        {% endif %}
+        {{ content | safe }}
+      </div>
+    </li>
+</ul>
+<footer class="small">
+    <p>/╲/\( •̀ ω •́ )/\╱\ <a href="/">go back</a></p>
+</footer>
+
