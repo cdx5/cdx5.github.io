@@ -31,7 +31,7 @@ To publish, everything is typed into a markdown file in [VS Code][8] and pushed 
 
 Most of the work that went into this project has to do with the process behind the scenes (agonizing over folder structures and automatic image optimization). Everything has been set up to reduce barriers to posting. My hope is for the result to feel like a public notebook.
 
-I have to thank [Laurel][11] for introducing me to Eleventy and for being an excellent sounding board throughout the development process. Much gratitude is also do to my partner [Elizaveta][12] for listening to me say the word “blog” many, many times and still loving me.
+I have to thank [Laurel][11] for introducing me to Eleventy and for being an excellent sounding board throughout the development process. Much gratitude is also due to my partner [Elizaveta][12] for listening to me say the word “blog” many, many times and still loving me.
 
 [1]: http://instagram.com/gordons_implicit_dogma
 [2]: https://www.11ty.dev

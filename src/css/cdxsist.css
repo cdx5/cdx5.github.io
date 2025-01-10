@@ -208,9 +208,9 @@ footer {
 /* text post */
 .post .content p:has(:not(img))~p:has(>img) img,
 .post .content p:has(:not(img))~p:has(>img) img+em {
-  width: 528px;
-  max-width: calc(100vw - 132px);
-  padding-left: 33px;
+  width: 516px;
+  max-width: calc(100vw - 100px);
+  padding-left: 28px;
 }
 
 .post .content p:not(:has(img))+p:has(img) img {
