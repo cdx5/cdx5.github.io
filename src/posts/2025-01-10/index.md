@@ -1,13 +1,10 @@
----
-class: text
----
 I texted [Gordon][1] that my blog was nearly done and ready for my first post. He wrote back: “what shall fill this hallowed space” (including the quotation marks). That made me laugh. It also made me think about how having a blog is bound to be a little embarrassing. Still... this is what I want my website to be.
 
-I’m used to launching projects with a predetermined, if not overdetermined, system for both the front and back end’s designs. This can lead to a website that looks impressive but may not actually be very useful or usable. It can quickly become a dead end. The ideal time to design a website would be after it’s over, not before it begins.
+I’m used to launching projects with a predetermined, if not overdetermined, system for both the front and back end’s design. This can lead to a website that looks impressive but may not actually be very useful or usable. It can quickly become a dead end. The ideal time to design a website would be after it’s over, not before it begins.
 
 ## Websites have no end
 
-For this latest iteration of my personal space on the web, my intention is to forego anticipation and launch with a design for an empty website because websites are born empty. I’m going to allow content and take the lead and this container will grow more specific as I go.
+For this latest iteration of my personal space on the web, my intention is to forego anticipation and launch with a design for an empty website because websites are born empty. I’m going to allow content to take the lead and this container will grow more specific as I go.
 
 ![Photo of computer screen showing Cdxs.ist on the day of launch](/posts/2025-01-10/cdxs-launch-day.jpeg)
 <em>Documentation of how this page appears at the time of publishing. I will probably make posts (or a changelog) to keep track of design updates because I’m a nerd and I need a place to talk about that kind of thing.</em>
