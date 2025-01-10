@@ -21,6 +21,7 @@ export default function(eleventyConfig) {
   
     eleventyConfig.addPassthroughCopy("src/assets/");
     eleventyConfig.addPassthroughCopy("src/css/");
+    eleventyConfig.addPassthroughCopy("CNAME");
 
     eleventyConfig.addWatchTarget("src/css/");
     eleventyConfig.addWatchTarget("src/posts/**/*.{svg,webp,png,jpeg}");
