@@ -102,6 +102,12 @@ img {
   object-position: left;
 }
 
+.post.text img, .post.text .content img+em {
+  width: 528px;
+  max-width: calc(100vw - 132px);
+  padding-left: 33px;
+}
+
 /* structure */
 header.site-header {
   width: 100%;
@@ -205,6 +211,19 @@ footer {
   margin-bottom: 17px;
 }
 
+/* text post */
+.post.text .content p+p img {
+  margin-top: 37px;
+}
+
+.post.text .content p:has(img) + p {
+    margin-top: 37px;
+}
+
+p:has(em)+p {
+  margin-top: 32px;
+}
+
 /* navigation */
 .navigation ul {
   color: rgb(150,150,150);
@@ -220,5 +239,9 @@ footer {
 @media screen and (max-width: 660px) {
   img {
     max-height: calc(100vw - 44px);
+  }
+
+  .post.text img {
+    max-height: calc(100vw - 132px);
   }
 }

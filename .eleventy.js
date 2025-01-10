@@ -18,7 +18,7 @@ export default function(eleventyConfig) {
     eleventyConfig.addFilter("postDate", dateObj => {
         return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("yyyy'.'MM'.'dd");
     });
-  
+
     eleventyConfig.addPassthroughCopy("src/assets/");
     eleventyConfig.addPassthroughCopy("src/css/");
     eleventyConfig.addPassthroughCopy("CNAME");

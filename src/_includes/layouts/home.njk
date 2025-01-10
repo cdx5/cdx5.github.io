@@ -10,7 +10,7 @@ note: "Remember you paginated the post collection but removed the navigation sni
 <!-- home.layout -->
 <ul class="posts-wrap">
   {% for post in posts %}
-    <li class="post divider">
+    <li class="post divider {{ post.data.class }}">
       <div class="date small">
         <a href="{{ post.url }}">{{ post.date | postDate }}</a>
       </div>
