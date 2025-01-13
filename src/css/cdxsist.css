@@ -225,6 +225,12 @@ footer {
   margin-top: 32px;
 }
 
+/* image post */
+h1:has(+p img){
+  margin-bottom: 15px;
+}
+
+
 /* navigation */
 .navigation ul {
   color: rgb(150,150,150);
