@@ -27,11 +27,6 @@ h3 {
   font-size: 12px;
 }
 
-h1 {
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
 h1:not(:first-child), h2:not(:first-child), h3:not(:first-child) {
   margin-top: 30px;
 }
