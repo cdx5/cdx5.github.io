@@ -1,0 +1,1 @@
+![my grayscale life.](/posts/2025-02-06/IMG_5195.jpeg)
