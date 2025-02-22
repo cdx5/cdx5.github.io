@@ -1,12 +1,11 @@
 ---
-# eleventyExcludeFromCollections: true
 tags: my-work
 title: Acoustic design
 ---
 
 I’ve wanted to share a couple projects from the end of last year that haven’t really found a home in my archive. Well, I took down my portfolio website so maybe I mean I’m trying to establish a new kind of documentation for my work. I like explaining the steps I took to make something as a reminder to myself that there was something worth doing in the process even if the final object is just a jpeg. I use drawing more and more in my design. I like the way I can apply typographic rules to something that doesn't really fit into that system of thought. In the case of the following two projects, its feels like I turned a corner and am ready to let go of an old method so I wanted to make a note of where it happened.
 
-# 1. Smack Mellon, Winter Party invitation
+## 1. Smack Mellon, Winter Party invitation
 
 I was hired to make a benefit invitation for a non-profit art space. There wasn’t a lot to go on conceptually, but the party did coincide with the opening of a [new exhibition][1] so I did a bit of research on the artist to see what I could pull together.
 
@@ -30,29 +29,29 @@ _The final invitation._
 
 In the end this was a quick one-off that went into an email. Not very important to me or to the people who received it. I guess that’s why I feel the urge to commemorate it here. 
 
-2. Wilks Group, _A Flat Suite_ album art
+## 2. Wilks Group, _A Flat Suite_ album art
 
-My friend [Zack][3] asked if I wanted to work on the album art for their upcoming album and I don’t think I’ve ever worked on a music release before so I was really excited for the opportunity. [The songs][4] are mostly acoustic arrangements and so it made sense to me to make this another drawing project. Drawing is acoustic design? 
+My friend [Zack][3] asked if I wanted to work on the album art for their upcoming album and I don’t think I’ve ever worked on a music release before so I was excited for the opportunity. [The songs][4] are mostly acoustic arrangements and so it made sense to me to make this another drawing project. Drawing is acoustic design? 
 
 ![A Flat Suit sketch](/posts/2025-02-03/zw-drawing-1.jpg)
 _My first attempt to scan the ”A Flat Suite” drawing captured the Smack Mellon invitation sketch underneath. Funny._
 
-I had this idea to depict flatness in the text. I wasn't sure how I would render it in the final version, but I started with this drawing of the letters in one-point perspective, thinking that the “shadow” of the reversed letters would spell the title in the correct orientation. From there, honestly I got really stuck so I made a page of nothing doodles a few weeks later to clear the cobwebs.
+I had this idea to depict flatness in the text. I wasn't sure how I would render it in the final version, but I started with this drawing of the letters in one-point perspective, thinking that the “shadow” of the reversed letters would spell the title in the correct orientation. From there, honestly I got stuck so I made a page of nothing doodles a few weeks later to clear the cobwebs.
 
 ![more sketches](/posts/2025-02-03/zw-drawing-3.jpg)
 _I had just gotten a stencil in the mail for entirely different reasons._
 
-My next step would normally be to image trace and start playing around with all the parts, but this time it felt wrong - or at least boring. Especially so soon after finishing a project using the same old process. It dawned on me that I could use the raw drawings as primary elements. Something I had weirdly never considered before.
+My next step would normally be to image trace and start playing around with all the parts, but this time it felt wrong - or at least boring. Especially so soon after finishing a project using the same process. It dawned on me that I could work with the raw drawings as primary elements. Something I had weirdly never considered before.
 
 ![early draft](/posts/2025-02-03/zw-sketches-2.jpg)
 _Struggling with including digital type._
 
-Another thing I was getting sick of was feeling like the type is an isolated layer on top of a drawn background. No combination felt incorporated or of the same world. Album art is forgiving in that it doesn't need to have legible text, or any text at all. Collage felt like a refreshing way to think about things. I came up with new rules about how images could have baselines and align to the grid. I did my best to arrange the drawings like letters. 
+In my sketches, I was getting sick of digital type feeling like an isolated layer on top of a drawn background. No combination felt incorporated or of the same world. Album art is forgiving in that it doesn’t need to have legible text, or any text at all. Collage felt like a refreshing way to think about things. I came up with new rules about how images could have baselines and align to the grid. I did my best to arrange the drawings as if they were letters. 
 
 ![final A Flat Suite album art](/posts/2025-02-03/cdxs_zw_a-flat-suite_side-A_11.06.24.png)
 _The final album art. Type it with pencil._
 
-I’m happy to have unstuck myself in this way. It isn’t a competition, but I like the way this project came out much more than the Smack Mellon piece. I can’t promise that I’ll never use image trace again. The lesson here for me is less about vector vs. raw and more about creating a cohesive visual language that better integrates the hand with the not-hand. At the very least it feels nice to have done something differently.
+I’m happy to have unstuck myself in this way. I can’t promise that I’ll never use image trace again. The lesson here for me is less about vector vs. raw and more about creating a cohesive visual language that better integrates the hand with the not-hand. At the very least it feels nice to have done something differently.
 
 ### Note: This post is filed as being created on 2025.02.03. That is the day I started this draft. The actual publish date is 2025.02.21. I can’t decide what is more accurate so I’m leaving it in the past.
 
